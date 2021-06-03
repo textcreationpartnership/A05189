@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brovvnisme turned the in-side out-ward Being a paralell betweene the profession and practise of the Brownists religion. By Christopher Lavvne, lately returned from that wicked separation.</title>
+            <author>Lawne, Christopher.</author>
+         </titleStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A05189</idno><idno type="EEBO-CITATION">99844043</idno>
+  <idno type="VID">8827</idno>
+  <idno type="EEBO-PROQUEST">2240903016</idno>
+  <idno type="STC">STC 15323</idno>
+  <idno type="STC">ESTC S108384</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99844043e"/>
+            <note>(EEBO-TCP ; phase 2, no. A05189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 804:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brovvnisme turned the in-side out-ward Being a paralell betweene the profession and practise of the Brownists religion. By Christopher Lavvne, lately returned from that wicked separation.</title>
+                  <author>Lawne, Christopher.</author>
+               </titleStmt>
+               <extent>[38] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Nicholas Okes] for Walter Burre, and are to bee sold at his shop in Pauls Church-yard at the signe of the Crane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-E⁴ (-A1).</note>
+                  <note>Running title reads: A paralell betweene the profession and practise of the Brownists.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Brownists --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8827:1"/>
+            <pb facs="tcp:8827:1"/>
+            <p>BROVVNISME <hi>TVRNED</hi> The In-side out-ward.</p>
+            <p>
+               <hi>BEING A PARA<g ref="char:EOLhyphen"/>LELL</hi> BETWEENE THE PROFESSION AND PRACTISE <hi>of the Brownists Religion.</hi>
+            </p>
+            <p>By CHRISTOPHER LAVVNE, lately returned from that wicked SEPARATION.</p>
+            <q>
+               <bibl>
+                  <hi>MATH. 23.27.</hi>
+               </bibl>
+               <p>Woe bee vnto you Scribes and Pharises, Hypo<g ref="char:EOLhyphen"/>crites: for yee are like vnto painted Tombes, which appeare beautifull outward, but are within full of dead mens bones, and of all fil<g ref="char:EOLhyphen"/>thinesse.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>GEN. 49.6.</hi>
+               </bibl>
+               <p>Into their secret let not my soule come; my glory, be not thou ioyned with their assembly, &amp;c.</p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Walter Burre,</hi> and are to bee sold at his Shop in Pauls Church-yard at the signe of the Crane. 1613.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:8827:2"/>
+            <pb facs="tcp:8827:2"/>
+            <head>The Preface to the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not Sathans weakest de<g ref="char:EOLhyphen"/>lusion, in these our dayes, to set the fairest glosses vpon the foulest matters; and to dresse his deadliest hookes with the most delightfull baites: It is my purpose therefore (gentle Reader) to let thee vnderstand somewhat concerning this Sect of Brownisme; which miserable experience, (the mistresse of fooles) hath made knowne vnto me, desiring that my mis-hap may preuent others harmes. I haue not, in the manifesting of the im<g ref="char:EOLhyphen"/>pieties of this Sect, written any thing, but that which I can of my owne knowledge, with good conscience, affirme; although I haue aledged sun<g ref="char:EOLhyphen"/>dry authors for the proofe therof; yet it is not for want of knowledge in my selfe; but rather for thy rresolution, that in the mouth of so many witnes<g ref="char:EOLhyphen"/>ses, euerything might be cōfirmed vnto thee, that thereby thou mayst take heed lest thou tread that schismatical trace; the trauelling of which, I (with many more of my penitent brethren) do now be<g ref="char:EOLhyphen"/>waile.
+<pb facs="tcp:8827:3"/>And I haue the rather chosen, at this time, to deale in this maner, with this their discription; because knowing that many of their Schismati<g ref="char:EOLhyphen"/>call bookes are brought in, and spread abroad in this land, whereby many good Christians are troubled and intangled, not discerning the errors therein, which they haue so cunningly hid and cloked with the manifold allegations of holy Scripture, the abuse where of is not (by the vnlear<g ref="char:EOLhyphen"/>ned) easily perceiued; among which this descrip<g ref="char:EOLhyphen"/>tion is not the least, but rather a principal perswa<g ref="char:EOLhyphen"/>sion to inuite guests vnto their Pharisaicall fel<g ref="char:EOLhyphen"/>lowship; hauing heard sundry (my selfe) confesse that this booke of their description hath beene the onely cause that brought them vnto <hi>Brow<g ref="char:EOLhyphen"/>nisme.</hi> But now the visard of their profession be<g ref="char:EOLhyphen"/>ing pluckt off, and the hookes of their heresie laid bare; I am not without hope that the reader shall reape such resolution thereby, that some shall thereby be staid from vndertaking that hard and dangerous voyage of <hi>Separation,</hi> from the which so few haue euer returned to communion with the Churches of Christ. And thus wishing it for thy wealth, for which end I vndertooke it, I hear<g ref="char:EOLhyphen"/>tily bid thee farewell in the Lord.</p>
+            <closer>
+               <signed>C. LAVVNE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:8827:3"/>
+            <head>A PARALEL BE<g ref="char:EOLhyphen"/>TWEENE THE OVT<g ref="char:EOLhyphen"/>SIDE AND THE INSIDE of the Brownists profession.</head>
+            <div n="1" type="Brownists_account">
+               <head>The out-side is described and set forth by them<g ref="char:EOLhyphen"/>selues on this manner.</head>
+               <p n="1">1 AS there is but <seg rend="sup">a</seg> one God, and father of all, one Lord ouer all, and one Spirit: So is there also but <seg rend="sup">b</seg> one Truth, one Faith, one Saluation, one
+<pb facs="tcp:8827:4"/>Church, called in one Hope, ioyned in Pro<g ref="char:EOLhyphen"/>fession, guided by one <seg rend="sup">c</seg> Rule, euen the word of the most High. <seg rend="sup">a</seg>
+                  <hi>Gen.</hi> 1.1. <hi>Exod.</hi> 20.3. <seg rend="sup">b</seg> 1. <hi>Tim.</hi> 2.4. <hi>Phil.</hi> 1.27. <hi>Ephes.</hi> 2.18. <hi>Iohn.</hi> 8.41. <seg rend="sup">c</seg>
+                  <hi>Deu<g ref="char:EOLhyphen"/>teron.</hi> 6.25. <hi>Rom.</hi> 10.8. 2. <hi>Tim.</hi> 3.15. <hi>Iohn.</hi> 8.51. 1 <hi>Iohn.</hi> 2.3.4. <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="1" type="insiders_account">
+               <pb facs="tcp:8827:3"/>
+               <head>The In-side is turned outward; and fet forth by those that haue li<g ref="char:EOLhyphen"/>ued long among them and know their liues, doctrines, and con<g ref="char:EOLhyphen"/>uersation.</head>
+               <p>
+                  <hi>1</hi> As there is but one God, and Father of all, one Lord ouer all, and one Spirit: so is there but one Truth, one Faith, one Saluation, one Church, cal<g ref="char:EOLhyphen"/>led in hope, ioyned in one
+<pb facs="tcp:8827:4"/>Communion. Therefore the <hi>Brownists</hi> beeing <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> schismed from this one Communion of Saints, cannot bee that true <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> Church, by this word of the most high, alledged by themselues. Gen. 1.1. Ex<g ref="char:EOLhyphen"/>od. 20.3. 1. Tim. 2.4. Phil. 1.27. Eph. 2.18. Iohn. 8.41. Deut. 6.25. Rom. 10.8. 2. Tim. 3.15. Iohn. 8.51. 1. Iohn. 2.3.4. &amp;c. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See the prophane Schisme of the Brownists, Sect. <hi>1</hi> Chap. <hi>2. <seg rend="sup">b</seg>
+                  </hi> See the prophane schisme. Chap. <hi>7.</hi>
+               </p>
+               <p>
+                  <hi>Ergo,</hi> the <hi>Brownists</hi> are not the Church of God, by their owne con<g ref="char:EOLhyphen"/>struction of these Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            </div>
+            <div n="2" type="Brownists_account">
+               <p n="2">2 This Church, as it is vniuersally vnder<g ref="char:EOLhyphen"/>stood, containeth in it all the <seg rend="sup">a</seg> Elect of God, that haue beene, or shall be: But being conside<g ref="char:EOLhyphen"/>red more particularly,
+<pb facs="tcp:8827:4"/>as it is seene in this pre<g ref="char:EOLhyphen"/>sent world, it consisteth of a company and fel<g ref="char:EOLhyphen"/>lowship of <seg rend="sup">b</seg> faithfull, and holy people, <seg rend="sup">c</seg> ga<g ref="char:EOLhyphen"/>thered in the name of <hi>Christ Iesus,</hi> their onely <seg rend="sup">d</seg> King, <seg rend="sup">e</seg> Priest, and <seg rend="sup">f</seg> Prophet, <seg rend="sup">g</seg> worship<g ref="char:EOLhyphen"/>ping him aright, being <seg rend="sup">h</seg> peaceably and quietly gouerned by his Offi<g ref="char:EOLhyphen"/>cers and Lawes, <seg rend="sup">i</seg> kee<g ref="char:EOLhyphen"/>ping the vnity of faith in the bond of Peace, and <seg rend="sup">k</seg> Loue vnfeigned. <seg rend="sup">a</seg>
+                  <hi>Gen.</hi> 17. <hi>chap.</hi> 1. <hi>Pet.</hi> 1.2. <hi>Reu.</hi> 7.9. 1. <hi>Cor.</hi> 10.3. <hi>Iohn.</hi> 17.10.20. <seg rend="sup">b</seg>
+                  <hi>Psal.</hi> 111.1. <hi>&amp;</hi> 149.1. <hi>Esa.</hi> 62.12. <hi>Ephes.</hi> 1.1. 1. <hi>Cor.</hi> 1.2. <hi>Deut.</hi> 14.2. <seg rend="sup">c</seg>
+                  <hi>Deut.</hi> 12.5. <hi>Iohn.</hi> 6.37. <hi>&amp;</hi> 3.14. <hi>&amp;</hi> 12.32. <hi>Luke</hi> 17.37. <seg rend="sup">d</seg>
+                  <hi>Gen.</hi> 44.10. <hi>Psalm.</hi> 45.6. <hi>Zach.</hi> 9.9. <hi>Heb.</hi> 1.8. <seg rend="sup">e</seg>
+                  <hi>Rom.</hi> 8.34. <hi>Iohn.</hi> 17. <hi>Chap. Heb.</hi> 5.9. <hi>&amp;</hi> 8.1. <hi>&amp;</hi> 4.14. <seg rend="sup">f</seg>
+                  <hi>Deut.</hi> 18.15. <hi>Mat.</hi> 17.5. <hi>Heb.</hi> 1.2. <hi>Gen.</hi> 14.18.
+<pb facs="tcp:8827:5"/>
+                  <seg rend="sup">g</seg>
+                  <hi>Exod.</hi> 20.4.5.6.7.8. <hi>Luke.</hi> 10.5. <hi>Iohn.</hi> 4.23. <seg rend="sup">h</seg>
+                  <hi>Math.</hi> 11.29. 1. <hi>Cor.</hi> 11.16. <hi>Marke</hi> 13.34. <hi>Reu.</hi> 22.9. <seg rend="sup">i</seg>
+                  <hi>Ephes.</hi> 4.3. 1. <hi>Cor.</hi> 1.13. <hi>Marke.</hi> 9.50. <seg rend="sup">k</seg>
+                  <hi>Iohn.</hi> 13.34. 1. <hi>Cor.</hi> 13.4. 1. <hi>Pet.</hi> 1.22.1. 1. <hi>Iohn.</hi> 3.10.</p>
+            </div>
+            <div n="2" type="insiders_account">
+               <p>
+                  <hi>2</hi> This their Descrip<g ref="char:EOLhyphen"/>tion, as it is vniuersally vnderstood, &amp;c. But ac<g ref="char:EOLhyphen"/>cording to their applica<g ref="char:EOLhyphen"/>tion of it to themselues, considering their In-side more particularly, as
+<pb facs="tcp:8827:4"/>they are to bee seene in this present world, in the Cittie of <hi>Amster<g ref="char:EOLhyphen"/>dam;</hi> They consist of a Company, and Fellow<g ref="char:EOLhyphen"/>ship of <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> irreligious and prophane people, gathe<g ref="char:EOLhyphen"/>red together in <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> Schis<g ref="char:EOLhyphen"/>me, <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> abusing <hi>CHRIST,</hi> and all his Offices, pro<g ref="char:EOLhyphen"/>phaning his worship and Ordinances, through their <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> contention, and bitter enuying, and wrangling; neither keeping vnity of Faith in the bond of Peace, and but fained loue. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See the prophane Schisme of the <hi>Brow<g ref="char:EOLhyphen"/>nists,</hi> throughout. <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> They neuer admit any man in<g ref="char:EOLhyphen"/>to their Communion, but with protestation to re<g ref="char:EOLhyphen"/>iect communion with the Churches of <hi>Christ. <seg rend="sup">c</seg>
+                  </hi> None of <hi>Christs</hi> Offi<g ref="char:EOLhyphen"/>ces belong vnto Schisma<g ref="char:EOLhyphen"/>tiques. <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> See <hi>Geo. Iohn<g ref="char:EOLhyphen"/>son,</hi> his discourse.</p>
+               <p>
+                  <hi>Ergo,</hi> By these Scrip<g ref="char:EOLhyphen"/>tures,
+<pb facs="tcp:8827:5"/>they are not the Church of God, <hi>Gen. 17. 1 Pet. 1.2. Reu. 7.9.</hi>
+               </p>
+            </div>
+            <div n="3" type="Brownists_account">
+               <p n="3">3 Most <seg rend="sup">a</seg> ioyfull, ex<g ref="char:EOLhyphen"/>cellent, and glorious things are euery where in the Scriptures spoken of this Church. It is cal<g ref="char:EOLhyphen"/>led the <seg rend="sup">b</seg> Citty, <seg rend="sup">c</seg> House, <seg rend="sup">d</seg> Temple, and <seg rend="sup">e</seg> Moun<g ref="char:EOLhyphen"/>taine of the Eternall God: the <seg rend="sup">f</seg> chosen Ge<g ref="char:EOLhyphen"/>neration, the holy Na<g ref="char:EOLhyphen"/>tion, the peculiar peo<g ref="char:EOLhyphen"/>ple: the <seg rend="sup">g</seg> Vineyard, the Garden inclosed, the Spring shut vp, the sca<g ref="char:EOLhyphen"/>led Fountaine, the Or<g ref="char:EOLhyphen"/>chard of Pomegranats, with sweet fruits: the <seg rend="sup">h</seg> heritage, the King<g ref="char:EOLhyphen"/>dome of Christ; yea his <seg rend="sup">i</seg> Sister, his Loue, his Spouse, his <seg rend="sup">k</seg> Queene.
+<pb facs="tcp:8827:5"/>and his Body, the ioy of the whole earth. To this society is the <seg rend="sup">l</seg> couenant and all the promises made, of <seg rend="sup">m</seg> Peace, of loue, and of <seg rend="sup">n</seg> saluation: of the presence of God, of his graces, of his po<g ref="char:EOLhyphen"/>wer, and of his <seg rend="sup">o</seg> prote<g ref="char:EOLhyphen"/>ction. <seg rend="sup">a</seg>
+                  <hi>Psal.</hi> 87, 3. <seg rend="sup">b</seg>
+                  <hi>Ibid.</hi>
+                  <seg rend="sup">c</seg> 1 <hi>Tim.</hi> 3.15. <hi>Heb.</hi> 3.6. <seg rend="sup">d</seg> 1 <hi>Cor.</hi> 3.17. <hi>Esa.</hi> 2.2. <hi>Mich.</hi> 4.1. <hi>Zech.</hi> 8.3. <seg rend="sup">e</seg> 1. <hi>Pet.</hi> 2.9. <seg rend="sup">f</seg>
+                  <hi>Esa.</hi> 5.1. <hi>&amp;</hi> 27 2. <seg rend="sup">g</seg>
+                  <hi>Song.</hi> 4.12. <hi>Esa.</hi> 51.3. <seg rend="sup">h</seg>
+                  <hi>Esa.</hi> 19.25. <seg rend="sup">i</seg>
+                  <hi>Mich.</hi> 5.2. <hi>Mat.</hi> 3.2. <hi>Ioh.</hi> 3.5. <seg rend="sup">k</seg>
+                  <hi>Song.</hi> 5.2. <seg rend="sup">l</seg>
+                  <hi>Psal.</hi> 45.9. <seg rend="sup">m</seg> 1 <hi>Cor</hi> 12.27. <hi>Eph.</hi> 1.23. <seg rend="sup">n</seg>
+                  <hi>Gal.</hi> 4.28. <hi>Rom.</hi> 9.4. <seg rend="sup">o</seg>
+                  <hi>Psa.</hi> 147.14.2. <hi>Thes.</hi> 3.16. <hi>Esay.</hi> 46.13. <hi>Zach.</hi> 14.17. <hi>Esay</hi> 60. <hi>Eze.</hi> 47. <hi>Zach.</hi> 4.12. <hi>Eze.</hi> 48.35. <hi>Math.</hi> 28.20. <hi>Esa</hi> 62.</p>
+            </div>
+            <div n="3" type="insiders_account">
+               <p>
+                  <hi>3</hi> Most feareful &amp; terri<g ref="char:EOLhyphen"/>ble things are euery where in the Scriptures spoken of this society: It is cal<g ref="char:EOLhyphen"/>led <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> a cursed generation for cursing Gods people': They are for their conten<g ref="char:EOLhyphen"/>tions <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> threatned to be no inheritors of the king<g ref="char:EOLhyphen"/>dome of heauen; for ra<g ref="char:EOLhyphen"/>ging out their owne <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> shame, for them is re<g ref="char:EOLhyphen"/>serued the blacke darke<g ref="char:EOLhyphen"/>nesse for euer. <hi>Enoch <seg rend="sup">d</seg>
+                  </hi> prophesied of such, that the Lord would come in iudgement against them, to reward both their deedes and words. <hi>Peter</hi> prophesied of such, that should <hi>
+                     <seg rend="sup">e</seg>
+                  </hi> priuily bring in
+<pb facs="tcp:8827:5"/>damnable heresies, and bring vpon themselues swift damnation. These are makers of <hi>
+                     <seg rend="sup">f</seg>
+                  </hi> Sects, flesh<g ref="char:EOLhyphen"/>ly, hauing not the spirit. They shall be <hi>
+                     <seg rend="sup">g</seg>
+                  </hi> ashamed at the last day, for hating &amp; excommunicating Gods people. <hi>
+                     <seg rend="sup">a</seg> Gen. 12.3. <seg rend="sup">b</seg> Gal. 5.20.21. <seg rend="sup">c</seg> Iud. 13. <seg rend="sup">d</seg> Iud. 14.15. <seg rend="sup">e</seg> 2 Peter. 2.1. <seg rend="sup">f</seg> Iude 19. <seg rend="sup">g</seg> Esay 66.5.</hi>
+               </p>
+               <p>Therefore it appeareth by these Scriptures, that they are not the Church and people of God. <hi>Psal. 87.3. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="4" type="Brownists_account">
+               <p n="4">4 And surely if this Church be cōsidered in her parts, it shall apeare most beautiful, yea most wonderfull, &amp; euen <seg rend="sup">a</seg> ra<g ref="char:EOLhyphen"/>uishing
+<pb facs="tcp:8827:6"/>the sences to conceiue, much more to behold; what then, to enioy so blessed a com<g ref="char:EOLhyphen"/>munion. For behold! her <seg rend="sup">b</seg> King and Lord is the King of peace, and Lord himselfe of all <hi>glo<g ref="char:EOLhyphen"/>ry.</hi> She enioyeth most holy &amp; heauenly <seg rend="sup">c</seg> laws, most faithfull and vigi<g ref="char:EOLhyphen"/>lant <seg rend="sup">d</seg> Pastors, most sin<g ref="char:EOLhyphen"/>cere &amp; pure <seg rend="sup">e</seg> Teachers, most carefull &amp; vpright <seg rend="sup">f</seg> Gouernours, most dili<g ref="char:EOLhyphen"/>gent and trusty <seg rend="sup">g</seg> Dea<g ref="char:EOLhyphen"/>cons, most louing and sober beleeuers; and a most <seg rend="sup">h</seg> hūble, meek, obe<g ref="char:EOLhyphen"/>dient, faithful, &amp; louing people; euery <seg rend="sup">i</seg> stone liuing, elect, and preti<g ref="char:EOLhyphen"/>ous: euery stone hath his beauty, his <seg rend="sup">k</seg> burden and his order, all bound to edifie one another, exhort, reproue, and comfort one another, <seg rend="sup">l</seg> louingly, as to their owne members, <seg rend="sup">m</seg> faith<g ref="char:EOLhyphen"/>fully,
+<pb facs="tcp:8827:6"/>as in the eyes of God. <seg rend="sup">a</seg>
+                  <hi>Song.</hi> 6.4.9. <seg rend="sup">b</seg>
+                  <hi>Esay</hi> 62.11. <hi>Ioh.</hi> 12.15. <hi>Heb.</hi> 2.7.8. <seg rend="sup">c</seg>
+                  <hi>Mat.</hi> 11.30. 1 <hi>Ioh.</hi> 5.3. <seg rend="sup">d</seg>
+                  <hi>Eph.</hi> 4.11. <hi>Act.</hi> 20. <seg rend="sup">c</seg>
+                  <hi>Rom.</hi> 12.7. <seg rend="sup">f</seg> 1 <hi>Cor.</hi> 12.28. <hi>Rom.</hi> 12.8. <seg rend="sup">g</seg>
+                  <hi>Acts</hi> 6. <seg rend="sup">h</seg>
+                  <hi>Rom.</hi> 12.8. <hi>Mat.</hi> 5.5. <hi>Eze</hi> 36.38. <hi>Esa.</hi> 60, 8. <hi>Deut.</hi> 18.9.13. <seg rend="sup">i</seg>
+                  <hi>Pet.</hi> 2.5. 1 <hi>Kin.</hi> 7.9. <hi>Zec.</hi> 14.21. <seg rend="sup">k</seg>
+                  <hi>Gal.</hi> 6.4 <seg rend="sup">1</seg>
+                  <hi>Cor.</hi> 12. <hi>Rom.</hi> 12.3. <hi>&amp;c.</hi>
+                  <seg rend="sup">m</seg>
+                  <hi>Heb.</hi> 10.24. <hi>Leu.</hi> 19.17. 1 <hi>Thes.</hi> 4.9. <hi>Col.</hi> 3.23. 1. <hi>Ioh.</hi> 3.20.</p>
+               <pb facs="tcp:8827:7"/>
+            </div>
+            <div n="4" type="insiders_account">
+               <p>
+                  <hi>4</hi> And surely if their Church bee considered in her parts, it shall appeare most <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> abhominable, yea most <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> detestable, &amp; euen
+<pb facs="tcp:8827:6"/>to bee <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> abhorred of euery true Christian to conceiue, much more to behold, what then to bee intang<g ref="char:EOLhyphen"/>led with such a crooked generation? For behold! they are led by the spirit of <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> schisme, errour, and confusion: they are annoy<g ref="char:EOLhyphen"/>ed with the abuse of Gods law, and peruerting the rules of Christ most lamen<g ref="char:EOLhyphen"/>tably: with a most <hi>
+                     <seg rend="sup">e</seg>
+                  </hi> frail<g ref="char:EOLhyphen"/>full, and vilanous Pastor, a most simple and piteous Teacher, most carelesse &amp; <hi>
+                     <seg rend="sup">f</seg>
+                  </hi> vnright Gouernors, most negligent and vntrusty <hi>
+                     <seg rend="sup">g</seg>
+                  </hi> Deacons: there were no beleeuers while I liued a<g ref="char:EOLhyphen"/>mong them, but a most <hi>
+                     <seg rend="sup">h</seg>
+                  </hi> haughty, proud, disobe<g ref="char:EOLhyphen"/>dient, dissembling, and spitefull people: many of the stones seemed dead in religion, no tokens of Gods election on them, no <hi>
+                     <seg rend="sup">i</seg>
+                  </hi> ver<g ref="char:EOLhyphen"/>tues apeared in their life, none bound to edifie o<g ref="char:EOLhyphen"/>ther, but rather to dehort,
+<pb facs="tcp:8827:6"/>disproue, and cast downe one another spitefully, as to their enemies; fraud<g ref="char:EOLhyphen"/>fully, <hi>
+                     <seg rend="sup">k</seg>
+                  </hi> as if God saw it not. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See testimony of <hi>T. White.</hi> (proph. schisme) pag. <hi>27.c.</hi> Sect, <hi>2. <seg rend="sup">b</seg>
+                  </hi> See the prophane schisme of the Brownists. <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> See Paralels betweene <hi>Manssield</hi> and <hi>Studley,</hi> prophane Schis<g ref="char:EOLhyphen"/>me, <hi>c.6. <seg rend="sup">d</seg>
+                  </hi> See <hi>Cut. Hut<g ref="char:EOLhyphen"/>tons</hi> worke, Proph. Schis. <hi>c.9. <seg rend="sup">e</seg>
+                  </hi> See his fathers Ar<g ref="char:EOLhyphen"/>ticles against him. Proph. Schism. <hi>c.11. <seg rend="sup">f</seg>
+                  </hi> See <hi>Geo. Iohnsons</hi> discourse. <hi>
+                     <seg rend="sup">g</seg>
+                  </hi> See the first part of the hunt<g ref="char:EOLhyphen"/>ing of the Fox. <hi>
+                     <seg rend="sup">h</seg>
+                  </hi> Witnesse <hi>Bowmans</hi> robbing the poore, for which hee was called <hi>Iudas</hi> the purse<g ref="char:EOLhyphen"/>bearer. His theft is recor<g ref="char:EOLhyphen"/>ded in the Citie-rolles of <hi>Amsterdam:</hi> for there was it handled before the Magistrate. <hi>
+                     <seg rend="sup">i</seg>
+                  </hi> See <hi>George Iohnsons</hi> discourse; hunting of the Fox: See proph. schism. c. <hi>11.</hi> pag. <hi>64. <seg rend="sup">k</seg>
+                  </hi> See Generation of slanders, Proph. scism. c. <hi>12.</hi> See <hi>George Iohnsons</hi> discourse.</p>
+               <p>Ergo. By these scriptures they are not the Church of God. <hi>Song. 6.4.9.</hi> &amp;c.</p>
+               <pb facs="tcp:8827:7"/>
+            </div>
+            <div n="5" type="Brownists_account">
+               <p n="5">5 No <seg rend="sup">a</seg> Office there is ambitiously affected, no <seg rend="sup">b</seg> law wrongfully wrest<g ref="char:EOLhyphen"/>ed, or <seg rend="sup">c</seg> wilfully neglect<g ref="char:EOLhyphen"/>ed, no <seg rend="sup">d</seg> truth hid or per<g ref="char:EOLhyphen"/>uerted, <seg rend="sup">e</seg> euery one here hath freedome and po<g ref="char:EOLhyphen"/>wer (not disturbing the peaceable order of the Church) to vtter his complaints and griefes, and freely to reproue the transgression &amp; er<g ref="char:EOLhyphen"/>rors of any, without ex<g ref="char:EOLhyphen"/>ception of persons. <seg rend="sup">a</seg> 2. <hi>Cor.</hi> 2.17. 3. <hi>Ioh.</hi> 9. <seg rend="sup">b</seg> 1 <hi>Tim</hi> 4.2.3. &amp; 5.21. &amp; 6.14. <hi>Gal.</hi> 12. <seg rend="sup">c</seg> 1 <hi>Cor.</hi> 5. <seg rend="sup">d</seg>
+                  <hi>Ier.</hi> 23.28. 1. <hi>Tim.</hi> 3.15. <seg rend="sup">e</seg> 1. <hi>Cor.</hi> 6. &amp; 14.30. <hi>Col.</hi> 4.17.</p>
+            </div>
+            <div n="5" type="insiders_account">
+               <p>
+                  <hi>5</hi> No Office is here attai<g ref="char:EOLhyphen"/>ned by <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> lawfull meanes, no <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> law faithfully practi<g ref="char:EOLhyphen"/>sed, or willingly executed, no truth rightly sought out, &amp; discouered, no peo<g ref="char:EOLhyphen"/>ple in greater <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> bondage to their Officers, no Church more <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> disturbed frō peace. None dare vtter his com<g ref="char:EOLhyphen"/>plaints and griefes, nor freely to reproue the trās<g ref="char:EOLhyphen"/>gression and errours, for feare of the <hi>
+                     <seg rend="sup">e</seg>
+                  </hi> partiality &amp; exceptions of their Offi<g ref="char:EOLhyphen"/>cers. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See <hi>H. Ainsworths</hi> answere to M<seg rend="sup">r</seg>
+                  <hi>Stone</hi> his Sermon, his abuse of scrip<g ref="char:EOLhyphen"/>ture for this purpose. pag. <hi>26. <seg rend="sup">b</seg>
+                  </hi> See proph. schisme, ch. <hi>1.</hi> sect. <hi>1.</hi> p. <hi>3. <seg rend="sup">c</seg>
+                  </hi> See proph. schisme. chap. <hi>13. <seg rend="sup">d</seg>
+                  </hi> See hunting of the Fox, first part.</p>
+               <p>Therfore by these scrip<g ref="char:EOLhyphen"/>tures they are not the Church and people of God, <hi>2. Cor. 2.17.</hi>
+               </p>
+            </div>
+            <div n="6" type="Brownists_account">
+               <p n="6">6 Here is no <seg rend="sup">a</seg> intrusion or climbing vp another
+<pb facs="tcp:8827:7"/>way into the sheep-fold then <seg rend="sup">b</seg> by the holy and free election of the Lords holy &amp; free peo<g ref="char:EOLhyphen"/>ple, and that according to the Lords ordinance, humbling themselues by fasting and prayer, before the Lord, cra<g ref="char:EOLhyphen"/>uing the direction of his holy spirit, for the triall and approuing of gifts, &amp;c. <seg rend="sup">a</seg>
+                  <hi>Ioh.</hi> 10.1. <seg rend="sup">b</seg>
+                  <hi>Act</hi> 1.23. <hi>&amp;</hi> 6.3. <hi>&amp;</hi> 14.23.</p>
+            </div>
+            <div n="6" type="insiders_account">
+               <p>
+                  <hi>6</hi> Here all are intruders, and climbers vp another
+<pb facs="tcp:8827:7"/>way into the sheep-fold, namely, by the election of scismatiques, and that cō<g ref="char:EOLhyphen"/>trary to the Lords <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> ordi<g ref="char:EOLhyphen"/>nance; not humbling thē<g ref="char:EOLhyphen"/>selues by fasting and pray<g ref="char:EOLhyphen"/>er before the Lord, in the communion of his Saints; not crauing the direction of his holy spirit, in the mouth of his Ministers of the reformed Churches, for the tryall and appro<g ref="char:EOLhyphen"/>uing of gifts, &amp;c. <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> Their schisme both depriues thē of the offices of Christ, &amp; also peruerts all his ordi<g ref="char:EOLhyphen"/>nances in the vse of them.</p>
+               <p>Therfore by these scrip<g ref="char:EOLhyphen"/>tures they are not the Church of God. Ioh. <hi>10.1.</hi> &amp;c.</p>
+            </div>
+            <div n="7" type="Brownists_account">
+               <p n="7">7 Thus they orderly proceed to ordination, by fasting and prayer, in which <seg rend="sup">a</seg> action the A<g ref="char:EOLhyphen"/>postles vsed laying on of hands. Thus hath e<g ref="char:EOLhyphen"/>uery one of the people interest in the election
+<pb facs="tcp:8827:8"/>and ordination of their Officers, as also in the administration of their Offices vpon <seg rend="sup">b</seg> trans<g ref="char:EOLhyphen"/>gression, offence, abuse, and hauing an especiall care vnto the inviolable order of the Church, as is aforesaid. <seg rend="sup">a</seg> 1. <hi>Tim.</hi> 4.14. <hi>&amp;</hi> 5.22. <seg rend="sup">b</seg>
+                  <hi>Luke</hi> 17.3. <hi>Rom.</hi> 10.17. <hi>Col.</hi> 4.17.</p>
+            </div>
+            <div n="7" type="insiders_account">
+               <p>
+                  <hi>7</hi> Thus they <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> vnorderly proceed to ordination, abu<g ref="char:EOLhyphen"/>sing the ordinance of God, and <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> assuming that vnto their confused multitude, which onely belongs to the Ministers of <hi>Christ,</hi> making them Ministers
+<pb facs="tcp:8827:8"/>by the imposition of hands of common people: And be theyonce in office, liue they neuer so <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> wickedly, they are still retained, and also preferred to <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> higher place in office; such confused or<g ref="char:EOLhyphen"/>der is in their Church. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> Witnesse M<seg rend="sup">r</seg>. <hi>Halies</hi> Intrusion. <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> See <hi>H. Ains<g ref="char:EOLhyphen"/>worths</hi> answere to M. <hi>Stone,</hi> pag. <hi>26. <seg rend="sup">c</seg>
+                  </hi> See pro<g ref="char:EOLhyphen"/>phane Schisme, pag. <hi>16. <seg rend="sup">d</seg> Bowman</hi> being a chiefe Deacon, is now made an Elder.</p>
+               <p>Ergo. By these scriptures they are not the Church of God. <hi>1. Tim. 4.14. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="8" type="Brownists_account">
+               <p n="8">8 Likewise, in this Church they haue holy <seg rend="sup">a</seg> Lawes, as limits and bounds, which it is law<g ref="char:EOLhyphen"/>full at no hand to trans<g ref="char:EOLhyphen"/>gresse. They haue lawes to direct them in the choyce of euery Offi<g ref="char:EOLhyphen"/>cer, what kinde of men the Lord will haue.
+<pb facs="tcp:8827:8"/>Their Pastour must bee apt to <seg rend="sup">b</seg> teach, no yong Scholler, <seg rend="sup">b</seg> able to di<g ref="char:EOLhyphen"/>uide the word aright, <seg rend="sup">d</seg> holding fast that faith<g ref="char:EOLhyphen"/>full word, according to doctrine, that he may be able to exhort, rebuke, improue, with whole<g ref="char:EOLhyphen"/>some doctrine, and to conuince them that say against it. He must bee <seg rend="sup">c</seg> a Man that loueth goodnesse; he must bee wise, righteous, holy, temperate; he must bee of life vnreproueable, as Gods Steward; he must be generally well repor<g ref="char:EOLhyphen"/>ted of, and one that ru<g ref="char:EOLhyphen"/>leth his owne houshold vnder obedience, with all honesty: he must be modest, humble, meeke, gentle, and louing; hee must alwaies be carefull and watchfull ouer the flocke, wherof the Lord hath made him Ouer<g ref="char:EOLhyphen"/>seer, with all willingnes,
+<pb facs="tcp:8827:9"/>and cheerefulnesse, not holding his office in re<g ref="char:EOLhyphen"/>spect of persons, but doing his duty to euery soule, as he will answere before the chiefe sheep<g ref="char:EOLhyphen"/>heard, &amp;c. <seg rend="sup">a</seg>
+                  <hi>Math.</hi> 5.19. 1 <hi>Tim.</hi> 1.18. <seg rend="sup">b</seg>
+                  <hi>Deut.</hi> 33.10 <hi>Mal.</hi> 2.7. 1 <hi>Tim.</hi> 3.1. <hi>&amp;c.</hi>
+                  <seg rend="sup">c</seg> 2 <hi>Tim.</hi> 2.15. <seg rend="sup">d</seg>
+                  <hi>Tit.</hi> 1.9. 2 <hi>Tim.</hi> 4.2. <seg rend="sup">e</seg>
+                  <hi>Tit.</hi> 1.7.8. <seg rend="sup">f</seg>
+                  <hi>Numb.</hi> 12.3.7. <hi>E<g ref="char:EOLhyphen"/>say</hi> 50.4.5.6. <hi>Ier.</hi> 3.15. <hi>Ezech.</hi> 34.18. <hi>Acts</hi> 20. 1. <hi>Pet.</hi> 5.1.2.3.4. 1 <hi>Tim.</hi> 5.21.</p>
+            </div>
+            <div n="8" type="insiders_account">
+               <p>
+                  <hi>8</hi> Likewise, in this Church they haue <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> vn<g ref="char:EOLhyphen"/>gadly Lawes, as limits and bounds, which at no hand is lawfull (for their people) to transgresse. They haue lawes to direct them in the choyce of eue<g ref="char:EOLhyphen"/>ry Officer, what kinde of men the Lord forbiddeth.
+<pb facs="tcp:8827:8"/>Their pastour being so apt to teach error, that in for<g ref="char:EOLhyphen"/>saking one, <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> he runs into two or three, forsaking that faithful word, accor<g ref="char:EOLhyphen"/>ding to doctrine, whereby he doth dehort from the truth, and lahbour to dis<g ref="char:EOLhyphen"/>proue and conuince the same: Hee is a man that loueth <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> vice: he is <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> foo<g ref="char:EOLhyphen"/>lish, vnrighteous, vnholy, <hi>
+                     <seg rend="sup">e</seg>
+                  </hi> intemperate: he is of life reproueable, as all the Churches of God do testi<g ref="char:EOLhyphen"/>fie; and so generally euill reported of: one that ru<g ref="char:EOLhyphen"/>leth his owne house <hi>
+                     <seg rend="sup">f</seg>
+                  </hi> dis<g ref="char:EOLhyphen"/>honestly; he is immodest, <hi>
+                     <seg rend="sup">g</seg>
+                  </hi> haughty, proud, cruell, and <hi>
+                     <seg rend="sup">h</seg>
+                  </hi> vnnaturall: hee is alwaies carelesse and neg<g ref="char:EOLhyphen"/>ligent ouer the flocke, whereof hee pretends to be Ouerseer, with all vn<g ref="char:EOLhyphen"/>willingnesse, <hi>
+                     <seg rend="sup">i</seg>
+                  </hi> grudging for maintenance, holding his office in respect of lu<g ref="char:EOLhyphen"/>cre, but doing his duty to neuer a soule, for which
+<pb facs="tcp:8827:9"/>he must answere before the chiefe sheep heard, if he preuent it not by repen<g ref="char:EOLhyphen"/>tance. <hi>
+                     <seg rend="sup">k</seg>
+                  </hi> It is Apostacy for any of their people to heare a Sermon in any of the re<g ref="char:EOLhyphen"/>formed Churches; yea, and they shall be more di<g ref="char:EOLhyphen"/>ligently brought to repen<g ref="char:EOLhyphen"/>tance for it, then for whoredome, theft, bribe<g ref="char:EOLhyphen"/>ry, or the like <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See his ex<g ref="char:EOLhyphen"/>position of Mat. <hi>18. <seg rend="sup">b</seg> Geo. Iohnsons</hi> discourse (vp<g ref="char:EOLhyphen"/>holding his wiues pride, wickednesse, and folly) <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> See proh. schis. c. <hi>11. <seg rend="sup">d</seg>
+                  </hi> See prop. schis. c. <hi>1. <seg rend="sup">e</seg>
+                  </hi> See <hi>Geo. Iohnsons</hi> discourse. <hi>
+                     <seg rend="sup">f</seg>
+                  </hi> See Proph. schism. cap. <hi>11. <seg rend="sup">g</seg>
+                  </hi> See <hi>Ioh. Iohnsons 14.</hi> Arti<g ref="char:EOLhyphen"/>cle, Prop. schis. cap. <hi>11. <seg rend="sup">h</seg>
+                  </hi> See <hi>Geo. Iohnsons</hi> discourse.</p>
+               <p>Ergo, By these scriptures they are not the Church of God. <hi>Math. 5.19.</hi>
+               </p>
+            </div>
+            <div n="9" type="Brownists_account">
+               <p n="9">9 Their Doctor or Teacher must be a man apt to teach, able to di<g ref="char:EOLhyphen"/>uide
+<pb facs="tcp:8827:9"/>the word of God aright, and to deliuer sound and wholesome doctrine from the same, still building vpon that sound ground-worke: He must bee mighty in the Scriptures, able to conuince the gainesay<g ref="char:EOLhyphen"/>ers, and carefull to deli<g ref="char:EOLhyphen"/>uer his doctrine pure, sound, and plaine; not with curiosity or affe<g ref="char:EOLhyphen"/>ctation; but so, that it may edifie the most sim<g ref="char:EOLhyphen"/>ple, approuing it to e<g ref="char:EOLhyphen"/>uery mans conscience: he must be of life vnre<g ref="char:EOLhyphen"/>proueable, one that can gouerne his owne hous<g ref="char:EOLhyphen"/>hold: he must be of ma<g ref="char:EOLhyphen"/>ners sober, temperate, modest, gentle, louing. &amp;c. 1 <hi>Tim.</hi> 3. <hi>Tit.</hi> 1. <hi>chap.</hi> 2 <hi>Tim.</hi> 2 15. 1 <hi>Cor.</hi> 1 17. <hi>&amp;</hi> 2.4.</p>
+               <pb facs="tcp:8827:10"/>
+            </div>
+            <div n="9" type="insiders_account">
+               <p>
+                  <hi>9</hi> Their Doctor, or tea<g ref="char:EOLhyphen"/>cher is a man vnapt to teach (and vnable to di<g ref="char:EOLhyphen"/>uide)
+<pb facs="tcp:8827:9"/>the word of God a<g ref="char:EOLhyphen"/>right; and he deliuers vn<g ref="char:EOLhyphen"/>sound and vnwholsome doctrine (of schisme) from the same; he is weake in the Scriptures, vnable to <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> conuince his gainsaiers, &amp; carelesse to deliuer his doctrine pure, sound, and plaine, but with curiosity, or affectation; not so, that it may edifie the most sim<g ref="char:EOLhyphen"/>ple, or aprouing it to eue<g ref="char:EOLhyphen"/>ry mans conscience: there<g ref="char:EOLhyphen"/>fore of life reproueable: one that cannot gouerne his owne houshold out of schisme, vn-christianly rending from the cōmuni<g ref="char:EOLhyphen"/>on of Saints, to the <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> great griefe of many good Chri<g ref="char:EOLhyphen"/>stians. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> Those that haue left their schisme; to wit, <hi>C.L.</hi> &amp; <hi>R.B.</hi> haue sundry times gone vnto him, desi<g ref="char:EOLhyphen"/>ring conference, but neuer could obtaine it of him. <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> Many good Christians do lamēt his fall in the place where he liued in Englād,
+<pb facs="tcp:8827:10"/>commending his innocent life, praying for his en<g ref="char:EOLhyphen"/>largement from his mise<g ref="char:EOLhyphen"/>rable schisme, which God grant, if it be his will.</p>
+               <p>Ergo, By these scriptures they are not the Church of God. <hi>1</hi> Tim. <hi>3.</hi> &amp;c.</p>
+            </div>
+            <div n="10" type="Brownists_account">
+               <p n="10">10 Their Elders must bee of wisedome and iudgment, endued with the Spirit of God, able to discerne betweene cause &amp; cause, betweene plea and plea, &amp; accor<g ref="char:EOLhyphen"/>dingly to preuent and redresse euils; alwayes vigilant, and intending to see the statutes, ordi<g ref="char:EOLhyphen"/>nances, &amp; lawes of God kept in the Church, and that not onely by the people in obedience, but to see the officers doe their duties. These men must be of life like<g ref="char:EOLhyphen"/>wise vnreproueable, go<g ref="char:EOLhyphen"/>uerning their owne fa<g ref="char:EOLhyphen"/>milies orderly. They
+<pb facs="tcp:8827:10"/>must be also of maners sober, gentle, modest, louing, temperate, &amp;c. <hi>Num.</hi> 11.24.25. 2. <hi>Chron.</hi> 19.8. <hi>Acts</hi> 15. <hi>chap.</hi> 1. <hi>Tim.</hi> 3. <hi>&amp;</hi> 5. <hi>chap.</hi>
+               </p>
+            </div>
+            <div n="10" type="insiders_account">
+               <p>
+                  <hi>10</hi> Their Elders are void of wisdome &amp; iudg<g ref="char:EOLhyphen"/>ment, endued with the spirit of error, vnable to discerne betweene cause and cause, betweene plea and plea, without <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> partia<g ref="char:EOLhyphen"/>lity: which accordingly nourish euils; alwayes vi<g ref="char:EOLhyphen"/>gilant in contending to see their statutes and Ca<g ref="char:EOLhyphen"/>nons kept in the Church. And thus they do <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> keepe not only the people in bon<g ref="char:EOLhyphen"/>dage, but see the Officers sinnes and <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> wickednesse cloked &amp; hid. These men are also of life reprouea<g ref="char:EOLhyphen"/>ble, gouerning their owne families <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> vnorderly; also of maners rude, cruel, <hi>
+                     <seg rend="sup">e</seg>
+                  </hi> la<g ref="char:EOLhyphen"/>sciuious,
+<pb facs="tcp:8827:10"/>spightfull, intem<g ref="char:EOLhyphen"/>perate, &amp;c. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See hunting of the Fox, the first part, <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> see <hi>G. Iohnsons</hi> dis<g ref="char:EOLhyphen"/>course. <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> Witnesse <hi>Stud<g ref="char:EOLhyphen"/>leyes</hi> vncleannesse, and <hi>de Cluse</hi> his drunken<g ref="char:EOLhyphen"/>nesse, so long smothered vp among them. <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> See M. <hi>Hintons</hi> testimony giuen in Dutch, proph. schis. c. <hi>4. <seg rend="sup">e</seg>
+                  </hi> See <hi>Saund.</hi> Artic. proph. schism. c. <hi>1.</hi> Sect. <hi>2.</hi> p. <hi>15.</hi>
+               </p>
+               <p>Ergo, By these scriptures they are not the Church of God. <hi>Num. 11.24.25.</hi> &amp;c.</p>
+            </div>
+            <div n="11" type="Brownists_account">
+               <p n="11">11 Their Deacons must be men of honest report, hauing the my<g ref="char:EOLhyphen"/>stery of faith in a pure cōscience, endued with the holy Gost. They must bee graue, tem<g ref="char:EOLhyphen"/>perate, not giuen to ex<g ref="char:EOLhyphen"/>cesse, nor filthy lucre. <hi>Act.</hi> 6.3. 1. <hi>Tim.</hi> 3.8.9.</p>
+               <pb facs="tcp:8827:11"/>
+            </div>
+            <div n="11" type="insiders_account">
+               <p>
+                  <hi>11</hi> Their Deacons also be men of <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> scandalous life, hauing the mystery of ini<g ref="char:EOLhyphen"/>quity in a putrified cōsci<g ref="char:EOLhyphen"/>ence, being endued with the spirit of <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> schisme: some vaine and intempe<g ref="char:EOLhyphen"/>rate, some giuen to <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> ex<g ref="char:EOLhyphen"/>cesse and filthy lucre. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See disc. of <hi>T. White. <seg rend="sup">b</seg>
+                  </hi> wit<g ref="char:EOLhyphen"/>nesse M. <hi>Halies</hi> protesta<g ref="char:EOLhyphen"/>tion to get into office. <hi>
+                     <seg rend="sup">c</seg> Iudas</hi> the purs-bearer was one.</p>
+               <p>Ergo, By these scriptures they are not, &amp;c. <hi>Act. 6.3.</hi>
+               </p>
+               <pb facs="tcp:8827:11"/>
+            </div>
+            <div n="12" type="Brownists_account">
+               <p n="12">12 Their Relieuers, or Widowes must be wo<g ref="char:EOLhyphen"/>men of 50 yeares of age at the least, for auoiding of inconueniences: they must bee well reported of for good works: such as haue nourished their children, such as haue bin harborous to stran<g ref="char:EOLhyphen"/>gers, diligent and ser<g ref="char:EOLhyphen"/>uiceable to Saints, com<g ref="char:EOLhyphen"/>passionate and helpefull to them in aduersity, giuen to euery good worke, continuing in supplications and pray<g ref="char:EOLhyphen"/>ers night &amp; day. 1. <hi>Tim.</hi> 5.9.10.</p>
+               <pb facs="tcp:8827:11"/>
+            </div>
+            <div n="12" type="insiders_account">
+               <p>
+                  <hi>12</hi> As for their Relieuers or Widowes, there neuer was any in the Separati<g ref="char:EOLhyphen"/>on, till now, since their di<g ref="char:EOLhyphen"/>uisions. And now <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> one part of them hath chosen two widows, against whō I can say nothing but this; that they are simply led by the rest into schisme, and there kept in such bōdage, as themselues doe greatly <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> complaine of, lamenting and bewailing the abuses of that Church in suppli<g ref="char:EOLhyphen"/>cations and praiers night and day. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> The <hi>Francis<g ref="char:EOLhyphen"/>can</hi> side. <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> They haue of<g ref="char:EOLhyphen"/>ten bewailed the bitter reiection of good people, vnto some, whom they durst make their mindes known vnto; yet for feare of their leaders, they dare not shew themselues fa<g ref="char:EOLhyphen"/>miliar to their louing friends, fearing to be re<g ref="char:EOLhyphen"/>buked for the same.</p>
+               <p>Ergo, By these Scriptures they are not, &amp;c. <hi>1.</hi> Tim. <hi>5</hi>
+               </p>
+               <pb facs="tcp:8827:11"/>
+            </div>
+            <div n="13" type="Brownists_account">
+               <p n="13">13 These officers must first bee duely proued; then if they bee found blamelesse, administer. 1. <hi>Tim.</hi> 3.10.</p>
+            </div>
+            <div n="13" type="insiders_account">
+               <p>
+                  <hi>13</hi> These their Officers, some of them were <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> sud<g ref="char:EOLhyphen"/>denly admitted, and not duly proued; others, that bee found blameable, ad<g ref="char:EOLhyphen"/>minister, &amp;c. <hi>
+                     <seg rend="sup">a</seg> Braith<g ref="char:EOLhyphen"/>wait</hi> was not in electiō for his Deacons office two houres before hee was in<g ref="char:EOLhyphen"/>stalled in the same.</p>
+               <p>Ergo, By these scriptures they are not the Church of God. <hi>1</hi> Tim. <hi>3.10.</hi>
+               </p>
+            </div>
+            <div n="14" type="Brownists_account">
+               <p n="14">14 Now as the per<g ref="char:EOLhyphen"/>sons, gifts, conditions, maners, life and proofe of these Officers is set downe by the holy Ghost; so are thir offices limited, seuered, and diuerse. 1 <hi>Cor.</hi> 12.12.18.28.</p>
+            </div>
+            <div n="14" type="insiders_account">
+               <p>
+                  <hi>14</hi> Now as the persons, gifts, conditions, maners, life and proofe of these of<g ref="char:EOLhyphen"/>ficers is set downe, &amp; tur<g ref="char:EOLhyphen"/>ned the In-side <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> outward, so shall their offices, how they are limited seuered, and diuerse, &amp;c. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> Faire without, &amp; foule within.</p>
+               <p>Ergo, By these scriptures they are not the Church of God. <hi>1 Cor. 12.</hi> &amp;c.</p>
+            </div>
+            <div n="15" type="Brownists_account">
+               <p n="15">15 The Pastors office is to feed the sheepe of Christ in greene and
+<pb facs="tcp:8827:12"/>wholesome pastures of his word, and lead them to the still waters, euen to the pure fountaine &amp; riuer of life: he must guide and keepe those sheepe by that heauenly sheep-hooke, and pasto<g ref="char:EOLhyphen"/>rall staffe of the word; thereby drawing them to him; thereby looking into their soules, euen into their most secret thoughts; thereby dis<g ref="char:EOLhyphen"/>cerning their desceases, &amp; thereby curing them, applying to euery dis<g ref="char:EOLhyphen"/>ease a fit and conuenient medicine; &amp; according to the quality and dan<g ref="char:EOLhyphen"/>ger of the disease, giue warning to the Church that they may orderly proceed to excommu<g ref="char:EOLhyphen"/>nication. Further, hee must by this his sheepe-hooke, watch ouer, and defend his flocke from rauenous beasts, and the wolfe, and take the little
+<pb facs="tcp:8827:12"/>Foxes, &amp;c. <hi>Psal.</hi> 23. <hi>Leu.</hi> 10.10.11. <hi>Numb.</hi> 18.1. <hi>Ezech.</hi> 44.23. <hi>&amp;</hi> 33. <hi>&amp;</hi> 34. <hi>Ioh.</hi> 12.15. <hi>Acts</hi> 20.28. 1. <hi>Peter.</hi> 5.4. <hi>Zach.</hi> 11.7. <hi>Reu.</hi> 22.2. <hi>Luk.</hi> 12.2. 2 <hi>Cor.</hi> 10.4.5. <hi>Heb.</hi> 4.12. <hi>Iohn.</hi> 10.11.12. <hi>Song.</hi> 2.15.</p>
+            </div>
+            <div n="15" type="insiders_account">
+               <p>
+                  <hi>15</hi> Their Pastors office is to <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> fetter the sheepe of Christ in the miery &amp; vn<g ref="char:EOLhyphen"/>wholesome
+<pb facs="tcp:8827:12"/>pin-fold of Se<g ref="char:EOLhyphen"/>paration, and lead them to the waters of <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> strife, euen to the filthy fountaine of Pharisaicall folly he must guide and keepe those sheepe by that hatefull hooke, and pestilent <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> staffe of schisme; thereby draw<g ref="char:EOLhyphen"/>ing them vnto him; there<g ref="char:EOLhyphen"/>by tyrannizing ouer their soules, prying into their most secret thoughts, ther<g ref="char:EOLhyphen"/>by discerning if any do be<g ref="char:EOLhyphen"/>gin to mind and consider their schisme, &amp; desire or go about to reconcile him<g ref="char:EOLhyphen"/>selfe vnto the Curches of Christ; thereby (if he can<g ref="char:EOLhyphen"/>not perswade them from so doing) strait <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> cursing them; applying to euery such penitent sinner, a falce and vniust censure, quite contrary to the qua<g ref="char:EOLhyphen"/>lity and condition of the estate; and giue warning to the Church, that they may vnorderly proceed to Excommunication. Fur<g ref="char:EOLhyphen"/>ther,
+<pb facs="tcp:8827:12"/>hee must by this his sheepe-hooke, watch ouer, and defend his flock from <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> those that labour to draw them out of their errours and schisme, seeking to ensnare, reproach, and scandalize those faithfull seruants of God. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> Many lye shackled in this pin<g ref="char:EOLhyphen"/>fold, beeing vnable to clamber ouer those vntempered walles of Separation, which S<seg rend="sup">t</seg>. <hi>Francis,</hi> with his associates haue so aduan<g ref="char:EOLhyphen"/>ced with their Sophistry. <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> See generation of slanders, Proph. schisme, c. <hi>12. <seg rend="sup">c</seg>
+                  </hi> See <hi>Geo. Iohnsons</hi> discourse, (pleading for authority) <hi>
+                     <seg rend="sup">d</seg>
+                  </hi> Witnesse their many excom<g ref="char:EOLhyphen"/>munications of those that forsooke the schisme. <hi>
+                     <seg rend="sup">e</seg>
+                  </hi> See. Proph. Schisme, chap. <hi>1.2.3.</hi> Sect. <hi>1.</hi>
+               </p>
+               <p>Ergo, By these scriptures the <hi>Brownists</hi> are not the Church of God. <hi>Psal. 23. Leu. 10.10.11. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="16" type="Brownists_account">
+               <p n="16">16. The Doctors of<g ref="char:EOLhyphen"/>fice is already set down in his description: his speciall care must be to build vpon the one<g ref="char:EOLhyphen"/>ly true ground-worke, Gold, Siluer, and Pre<g ref="char:EOLhyphen"/>tious stones, that his worke may endure the
+<pb facs="tcp:8827:13"/>tryall of the fire, and by the light of the same fire reueale the Timber, Hay, and Stubble of falce Teachers: he must take diligent heede to keepe the Church from errours. And further, he must deliuer his do<g ref="char:EOLhyphen"/>ctrine so plainely, sim<g ref="char:EOLhyphen"/>ply, and purely, that the Church may increase with the increasing of God, and grow vp vnto him which is the Head, <hi>Christ Iesus.</hi> 1. <hi>Cor.</hi> 3.11.12. <hi>Leu.</hi> 10.10. <hi>Ezec.</hi> 33.1.2. <hi>&amp;</hi> 44.24. <hi>Mal.</hi> 2.6. 1 <hi>Cor.</hi> 3.11. 1 <hi>Cor.</hi> 1.17. 1 <hi>Tim.</hi> 4.10. <hi>&amp;</hi> 6.20. <hi>Eph</hi> 2.20. <hi>Heb.</hi> 6.1. 1 <hi>Pet.</hi> 2.2.</p>
+            </div>
+            <div n="16" type="insiders_account">
+               <p>
+                  <hi>16</hi> The Doctors office is already set downe in his description: his speciall care must be to build with vntempered mortar vpon their schismaticall groūd<g ref="char:EOLhyphen"/>worke, <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> bee it timber, hay, stubble, and polluted stones, that his worke may
+<pb facs="tcp:8827:13"/>endure the tryall of their fire, and by the light of that same fire, reueale the Gold, Siluer, and Pretious stones, such as discerne the false-hood of false teachers: he must take di<g ref="char:EOLhyphen"/>ligent heede to keepe the Church from communion with the Churches of Christ: Further, hee must deliuer his doctrine so so<g ref="char:EOLhyphen"/>phistically, and peeuishly, that the Church may in<g ref="char:EOLhyphen"/>crease in cōtention, shifts, and cauils, to maintaine their errour, and so grow vp in schisme from all the Churches of <hi>Christ Iesus. <seg rend="sup">a</seg>
+                  </hi> whosoeuer will come &amp; acknowledge that <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is a falce and Anti<g ref="char:EOLhyphen"/>christian Church, they doe receiue them, wherby they haue many, not onely igno<g ref="char:EOLhyphen"/>rant of religion, but of lewd disposition. See the testi<g ref="char:EOLhyphen"/>mony of M. <hi>White,</hi> Proph. schisme, c. <hi>5.</hi> pag. <hi>27.</hi>
+               </p>
+               <p>Ergo, By these scriptures they are not the Church of God. <hi>1 Cor. 3.11.12. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="17" type="Brownists_account">
+               <p n="17">17 The Office of the
+<pb facs="tcp:8827:13"/>Antients is expressed in their Description: their especiall care must bee to see the ordinan<g ref="char:EOLhyphen"/>ces of God truly taught and practised, as well by the Officers, doing their duty vprightly, as to see that the people o<g ref="char:EOLhyphen"/>bey willingly and rea<g ref="char:EOLhyphen"/>dily. It is their duty to see the Congregation holily and quietly or<g ref="char:EOLhyphen"/>dered, and no way di<g ref="char:EOLhyphen"/>sturbed, by the conten<g ref="char:EOLhyphen"/>tious, and disobedient, froward, and obstinate; not taking away the li<g ref="char:EOLhyphen"/>berty of the least, but vpholding the right of all, wisely iudging of times and circumstan<g ref="char:EOLhyphen"/>ces. They must be rea<g ref="char:EOLhyphen"/>dy assistants to the Pa<g ref="char:EOLhyphen"/>stour and Teachers, helping to beare their burden, and not intru<g ref="char:EOLhyphen"/>ding into their Office. <hi>Numb.</hi> 11.16. <hi>Deut.</hi> 1.13. <hi>&amp;</hi> 16.18. 2 <hi>Chron.</hi>
+                  <pb facs="tcp:8827:14"/>19.8. <hi>Exod.</hi> 39.42. 1. <hi>Tim.</hi> 3.15. 2. <hi>Tim.</hi> 1.13. 1 <hi>Cor.</hi> 11.16. <hi>&amp;</hi> 14.33. <hi>Gal.</hi> 2.4.5.14. <hi>Col.</hi> 4.16.17. <hi>Acts</hi> 20. 1. <hi>Pet.</hi> 5.1. <hi>Rom.</hi> 12.8.</p>
+            </div>
+            <div n="17" type="insiders_account">
+               <p>
+                  <hi>17</hi> The Office of the
+<pb facs="tcp:8827:13"/>Antients is expressed in their Description: their especiall care must bee to see the Canons of their schisme trimly taught and practised, as well by their Officers, doing their endeauours vnrightly, as to see the people kept in bondage, though vnwil<g ref="char:EOLhyphen"/>lingly. It is their <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> do<g ref="char:EOLhyphen"/>ings, that the Congregati<g ref="char:EOLhyphen"/>on is wholly disquietly ordered, and many wayes disturbed by the contenti<g ref="char:EOLhyphen"/>ous, disobedient, frow<g ref="char:EOLhyphen"/>ard, and obstinate, not taking away the iniuries of the weake, but vphol<g ref="char:EOLhyphen"/>ding their <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> fauourites against all, wickedly iudging of times and cir<g ref="char:EOLhyphen"/>cumstances. They must be ready assistants to their Pastour and Teachers, hel<g ref="char:EOLhyphen"/>ping them to defend their errours, and schismati<g ref="char:EOLhyphen"/>call standing <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> The Lea<g ref="char:EOLhyphen"/>ders of the people cause them to erre. <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> See <hi>Stud<g ref="char:EOLhyphen"/>leys</hi>
+                  <pb facs="tcp:8827:14"/>letter against <hi>Sam. Fuller.</hi>
+               </p>
+               <p>Ergo, By these scriptures they are not the Church of God. Numb. <hi>11.16.</hi> &amp;c.</p>
+            </div>
+            <div n="18" type="Brownists_account">
+               <p n="18">18 The Deacons Of<g ref="char:EOLhyphen"/>fice is faithfully to ga<g ref="char:EOLhyphen"/>ther &amp; colect, by the or<g ref="char:EOLhyphen"/>dinance of the Church, the goods and beneuo<g ref="char:EOLhyphen"/>lence of the faithfull; &amp; by the same direction, diligently and trustily to distribute them ac<g ref="char:EOLhyphen"/>cording to the necessity of the Saints. Further, they must enquire, and consider of the propor<g ref="char:EOLhyphen"/>tion of the wants, both of the Officers, and o<g ref="char:EOLhyphen"/>ther poore, and accor<g ref="char:EOLhyphen"/>dingly relate vnto the Church, that prouision may bee made, <hi>Acts</hi> 6. <hi>Rom.</hi> 12.8.</p>
+               <pb facs="tcp:8827:14"/>
+            </div>
+            <div n="18" type="insiders_account">
+               <p>
+                  <hi>18</hi> The Deacons office is <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> fraudfully to gather and collect, by the ordinance of their Church, the goods &amp; beneuolence of their fraile folke; and by the same in<g ref="char:EOLhyphen"/>direct course, negligently &amp; vntrustily to distribute them, according to the ne<g ref="char:EOLhyphen"/>cessity of their Saints. Fur<g ref="char:EOLhyphen"/>ther, they must require &amp; complaine to the people for more contribution, extor<g ref="char:EOLhyphen"/>ting it euen from poore mens labours, that prouisi<g ref="char:EOLhyphen"/>on may be made for some drones among them. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> It is fraud to colect mens goods to maintaine schisme. Those that are somewhat remisse in their separatiō, do oft endure great misery, yet not relieued by them; but those that are most peruerse in the reiecting of o<g ref="char:EOLhyphen"/>thers, be they neuer such drones, yet they must be fed.</p>
+               <pb facs="tcp:8827:14"/>
+               <p>Ergo, by these Scriptures they are not the Church of God, Act. <hi>6.</hi> Rom. <hi>12.8.</hi>
+               </p>
+            </div>
+            <div n="19" type="Brownists_account">
+               <p n="19">19 The Relieuers &amp; wi<g ref="char:EOLhyphen"/>dowes office is to mini<g ref="char:EOLhyphen"/>ster to the sicke, lame, weary, &amp; diseased, such helpfull cōforts as they need, by watching, ten<g ref="char:EOLhyphen"/>ding and helping them: further, they must shew good example to the yonger women, in sober modest, and godly con<g ref="char:EOLhyphen"/>uersation, auoiding I<g ref="char:EOLhyphen"/>dlenesse, vaine talke, and light behauiour, <hi>Rom.</hi> 12 8. 1 <hi>Tim.</hi> 5.9. &amp;c.</p>
+            </div>
+            <div n="19" type="insiders_account">
+               <p>
+                  <hi>19</hi> The Relieuers &amp; wi<g ref="char:EOLhyphen"/>dowes office is to minister to the sicke, lame, &amp;c. which they impose vpon the <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> aged &amp; helplesse wo<g ref="char:EOLhyphen"/>men, which greatly in<g ref="char:EOLhyphen"/>crease their misery; not hauing maintenance of the Church, according to Gods ordinance, <hi>1 Tim. 5.16.</hi> but increasing their griefe like <hi>Pharaohs</hi> Taske-maisters. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> These women (one in speciall) haue liued very hardly &amp; very laboriously, long with them vnrelieued; and now haue they increased her labour, but not added to her meanes as yet.</p>
+               <p>Ergo, by these scriptures they are not the Church of God. <hi>Rom. 12.8. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="20" type="Brownists_account">
+               <p n="20">20 These Officers, though they bee diuers &amp; seuerall, yet are they not seuered, lest there should be a diuision in the body; hauing the
+<pb facs="tcp:8827:15"/>same care, one of ano<g ref="char:EOLhyphen"/>ther, iointly doing their duties to the seruice of the Saints, and to the e<g ref="char:EOLhyphen"/>dificatiō of the body of Christ, till we all meete together in the perfect measure of the fulnesse of Christ; by whom all the body beeing thus coupled and knit toge<g ref="char:EOLhyphen"/>ther by euery ioynt, for the furniture therof, ac<g ref="char:EOLhyphen"/>cording to the effectual power which is in the measure of euery part, receiueth increase of the body vnto the edify<g ref="char:EOLhyphen"/>ing of it selfe in loue: neither can any of these offices be wāting, with<g ref="char:EOLhyphen"/>out grieuous lamenesse, and apparant deformity of the body; yea violent iniury to the head <hi>Christ Iesus. Luk.</hi> 9.46.47.48. <hi>Ioh.</hi> 13.12.17. 1 <hi>Cor.</hi> 12.12.25.28. <hi>Eph.</hi> 4.11.12.13.16.</p>
+               <pb facs="tcp:8827:15"/>
+            </div>
+            <div n="20" type="insiders_account">
+               <p>
+                  <hi>20</hi> These officers, though they be diuersly sinfull, yet are they not seuered, lest there should be a reforma<g ref="char:EOLhyphen"/>tiō in the body, hauing the same care one of another,
+<pb facs="tcp:8827:15"/>ioyntly doing their ende<g ref="char:EOLhyphen"/>uors to the seruice of their <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> schisme, &amp; to the disso<g ref="char:EOLhyphen"/>lutiō of the body of Christ, till they all meete in that peruerted maner of the rules of <hi>Christ,</hi> by which all their body being thus crooked, &amp; tied together by euery ioint, for the flou<g ref="char:EOLhyphen"/>rishing therof, according to the effectuall power of sathā, which is in the mea<g ref="char:EOLhyphen"/>sure of euery part, receueth decrease of the body vnto the defying of it selfe, &amp; hatefull <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> separating one part frō another, vnto the gricuous lamenesse &amp; ap<g ref="char:EOLhyphen"/>parant deformity of that schismaticall body which hath done such iniury to the head <hi>Christ Iesus. <seg rend="sup">a</seg>
+                  </hi> They compasse sea and land to make one of their professiō, <hi>Mat. 23.15. <seg rend="sup">b</seg>
+                  </hi> See the testimony of <hi>C. Hut.</hi> Proph.schism. c. <hi>9.</hi> Ergo, by these scriptures they are not, &amp;c. <hi>Luk. 9.46.</hi> &amp;c.</p>
+               <pb facs="tcp:8827:15"/>
+            </div>
+            <div n="21" type="Brownists_account">
+               <p n="21">21 Thus this holy Ar<g ref="char:EOLhyphen"/>my of Saints is marsha<g ref="char:EOLhyphen"/>led heere in earth by these officers, vnder the cōduct of their glorious Emperour Christ, that victorious <hi>Michaell.</hi> Thus it marcheth in this most heauenly order, &amp; gracious array, against all enemies both bodily and ghostly; peaceable in it selfe, as <hi>Ierusalem,</hi> terrible to the enemy, as an army with banners; triumphing ouer their tyranny with patience, their cruelty with meek<g ref="char:EOLhyphen"/>nesse, and ouer death it selfe with dying. Thus, through the bloud of that spotlesse lambe, and that word of their testi<g ref="char:EOLhyphen"/>mony, they are more thē Conquerours, bruising the head of the Serpent; yea through the power of his word they haue power to cast downe Sathan, like lightening;
+<pb facs="tcp:8827:16"/>to tread vpon Serpents, and Scorpions; to cast downe strong holds, &amp; euery thing that exal<g ref="char:EOLhyphen"/>teth it selfe against <hi>God.</hi> The gates of hell, &amp; all the Principalities and powers of the world shal not preuaile against it. <hi>Rom.</hi> 12. <hi>chap.</hi> 1 <hi>Cor.</hi> 12 <hi>Reuel.</hi> 14.1.2. <hi>Song.</hi> 6.3. <hi>Reuel.</hi> 12.11. <hi>Luk.</hi> 10.18.19. 2 <hi>Cor.</hi> 10.5. <hi>Math.</hi> 16 18. <hi>Rom.</hi> 8.38.39.</p>
+            </div>
+            <div n="21" type="insiders_account">
+               <p>
+                  <hi>21</hi> Thus this hateful ar<g ref="char:EOLhyphen"/>my of schismatiques is marshaled here in <hi>Am<g ref="char:EOLhyphen"/>sterdam</hi> by these officers, vnder the conduct of the clamorous enemies of the Church of <hi>Christ,</hi> the notorious Schismatiques. Thus it marcheth in this most hatefull disorder &amp; grieuous aray, against <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> all the Churches of <hi>Christ</hi> vpon earth; peeuish in it selfe, as <hi>Ierusalem</hi> against <hi>Christ;</hi> troubling the Church, as presumptuous enemies; triumphing ouer the Saints patience with tyranny, their meekenesse with cruelty, and ouer truth it selfe with lying. Thus do they shed againe the bloud of that spotlesse lamb, by the word of their testimony, in slandering both the life and commu<g ref="char:EOLhyphen"/>nion of his Saints; yea through the power of the same, they cast out Gods <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> children from among
+<pb facs="tcp:8827:16"/>them, erecting their strange holds of separati<g ref="char:EOLhyphen"/>on, that exalteth it selfe a<g ref="char:EOLhyphen"/>gainst God, as though the gates of hell, and all the Principalities &amp; Powers of the world should pre<g ref="char:EOLhyphen"/>uaile against him. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See the testimony of the Frēch &amp; Dutch Churches, Proph schis. c. <hi>11. <seg rend="sup">b</seg>
+                  </hi> Mat. <hi>25.40.</hi> See <hi>Ioh. Iohnsons</hi> Artic. Proph. schis. c. <hi>11.</hi>
+               </p>
+               <p>Ergo, By these scriptures they are not the Church &amp; people of God. <hi>Rom. 12. 1 Cor. 12. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="22" type="Brownists_account">
+               <p n="22">22 Further, he hath gi<g ref="char:EOLhyphen"/>uen them the keyes of the kingdome of hea<g ref="char:EOLhyphen"/>uen, that whatsoeuer they binde in earth, by his word, shal be bound in heauen; and whatsoe<g ref="char:EOLhyphen"/>uen they loosen in earth shall bee loosed in hea<g ref="char:EOLhyphen"/>uen, <hi>Mat.</hi> 16.19. <hi>Ioh.</hi> 20.23. <hi>Mat.</hi> 18.18.</p>
+            </div>
+            <div n="22" type="insiders_account">
+               <p>
+                  <hi>22</hi> Further, they vniust<g ref="char:EOLhyphen"/>ly assume the keyes of the kingdome of heauen, to binde and <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> loose sins on earth; but they haue ra<g ref="char:EOLhyphen"/>ther the keyes of hell, to broach errors &amp; schismes. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> And most lamentably doe they abuse Gods ordinance hereabout. Ergo, By these scriptures they are not, &amp;c. Mat. <hi>16.19.</hi> &amp;c.</p>
+            </div>
+            <div n="23" type="Brownists_account">
+               <p n="23">23 Now this power
+<pb facs="tcp:8827:16"/>which Christ hath giuē to his Church, and to e<g ref="char:EOLhyphen"/>uery member of his Church, to keep it in or<g ref="char:EOLhyphen"/>der, he hath not left it to their discretions and lusts, to be vsed or neg<g ref="char:EOLhyphen"/>lected as they will; but in his last will and testa<g ref="char:EOLhyphen"/>ment he hath set downe both an order of pro<g ref="char:EOLhyphen"/>ceeding, and an end to which it is vsed. <hi>Mat.</hi> 16 16.19. <hi>&amp;</hi> 18.15.16.17.18. <hi>&amp;</hi> 28.20. <hi>Deu.</hi> 12.31 32. <hi>Reu.</hi> 22.18.19.</p>
+            </div>
+            <div n="23" type="insiders_account">
+               <p>
+                  <hi>23</hi> Now this power
+<pb facs="tcp:8827:16"/>which they assume to this Church, doth keepe it in such <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> disorder, and confu<g ref="char:EOLhyphen"/>sion: for the father of con<g ref="char:EOLhyphen"/>tention hath not left it to their discretions to be v<g ref="char:EOLhyphen"/>sed, but so reignes &amp; rules among thē, that manifold <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> ruines, rents and distra<g ref="char:EOLhyphen"/>ctions doe daily breake forth, and increase among them. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See <hi>W. Simpson,</hi> and <hi>
+                     <seg rend="sup">b</seg> C. Hut.</hi> their testi<g ref="char:EOLhyphen"/>monies, Proph. schis. c. <hi>10.</hi> &amp;c. <hi>9.</hi> Ergo, By these scriptures they are not, &amp;c. <hi>Mat. 16.16. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="24" type="Brownists_account">
+               <p n="24">24 If the fault be pri<g ref="char:EOLhyphen"/>uate, holy &amp; louing ad<g ref="char:EOLhyphen"/>monition and reproofe is to be vsed, with an in<g ref="char:EOLhyphen"/>ward desire, and earnest care to win their bro<g ref="char:EOLhyphen"/>ther: But if hee will not heare, yet to take two or three other brethrē with him, whom hee knowes most meet for the pur<g ref="char:EOLhyphen"/>pose, that by the mouth of twoor three witnesses
+<pb facs="tcp:8827:17"/>euery word may be con<g ref="char:EOLhyphen"/>firmed: and if he refuse to heare them, then to declare the matter to the Church, which ought seuerely &amp; sharp<g ref="char:EOLhyphen"/>ly to reprehend, grauely to admonish, &amp; louing<g ref="char:EOLhyphen"/>ly to perswade the par<g ref="char:EOLhyphen"/>ty offending; shewing him the heynousnesse of his offence, and the danger of his obstinacy, and the fearefull iudge<g ref="char:EOLhyphen"/>ment of the Lord, <hi>Leuit.</hi> 19.17.18. <hi>Math.</hi> 18.15. <hi>Deut.</hi> 19.15. <hi>Mat.</hi> 18.16.</p>
+            </div>
+            <div n="24" type="insiders_account">
+               <p>
+                  <hi>24</hi> If the fault bee pri<g ref="char:EOLhyphen"/>uate, priuy whispering, without reproofe, is often vsed: but if (happily) some two of the brethren do fal out, &amp; bee angry one with another, then if either <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> party can call to minde any offence of the other, it is their manner to prose<g ref="char:EOLhyphen"/>cute it with great dili<g ref="char:EOLhyphen"/>gence, though the faults weere done sundry yeares
+<pb facs="tcp:8827:17"/>before. Then shall he soone passe the first places, &amp; be brought to the Church, &amp; then, if the Elders take a<g ref="char:EOLhyphen"/>gainst him, hee is like to haue the bowels of his offence ript vp, and corro<g ref="char:EOLhyphen"/>siued to the quicke: but contrariwise, if their El<g ref="char:EOLhyphen"/>ders bee on the other side, oftentimes there is some fault found with the dea<g ref="char:EOLhyphen"/>ler in his proceeding, and so the reproofe returnes vpon the head of the In<g ref="char:EOLhyphen"/>nocent. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> Witnesse <hi>Tho. Cooky,</hi> and <hi>Iac. Iohn<g ref="char:EOLhyphen"/>son,</hi> their going to one &amp; thirty for lyes: vpon a falling out betweene them, one studies vp and calles to mind <hi>15</hi> lyes that he at seue<g ref="char:EOLhyphen"/>rall times had heard from the other; whereupon he al<g ref="char:EOLhyphen"/>so falles to his study, &amp; in short time brings in his re<g ref="char:EOLhyphen"/>gister of <hi>16</hi> lyes against him. Se Proph. schis. pag. <hi>83.</hi>
+               </p>
+               <p>Ergo, By these Scriptures the <hi>Brownists</hi> are not the Church of God. <hi>Leuit. 19.17. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="25" type="Brownists_account">
+               <p n="25">25 All this notwith<g ref="char:EOLhyphen"/>standing, the Church is not to hold him as an e<g ref="char:EOLhyphen"/>nemy, but to admonish
+<pb facs="tcp:8827:17"/>him, and pray for him as a brother, prouing if at any time the Lord will giue him repentāce. For this power is not giuen them to the destruction of any, but to the edifi<g ref="char:EOLhyphen"/>catiō of all. 2 <hi>Thes.</hi> 3.15. 2 <hi>Cor.</hi> 10.8. &amp; 13.10.</p>
+            </div>
+            <div n="25" type="insiders_account">
+               <p>
+                  <hi>25</hi> All this notwithstan<g ref="char:EOLhyphen"/>ding, the Church doth not holding him as a brother, to <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> assist and comfort him
+<pb facs="tcp:8827:17"/>against iniury &amp; oppressi<g ref="char:EOLhyphen"/>on, rather vsing this pow<g ref="char:EOLhyphen"/>er to the destruction of a<g ref="char:EOLhyphen"/>ny, then to the edification of all. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See <hi>Geo. Iohn<g ref="char:EOLhyphen"/>sons</hi> discourse.</p>
+               <p>Ergo, By these scriptures they are not, &amp;c. <hi>2</hi> Thes. <hi>3.</hi> &amp;c.</p>
+            </div>
+            <div n="26" type="Brownists_account">
+               <p n="26">26 If this preuaile not to draw him to repen<g ref="char:EOLhyphen"/>tance, then are they in the name of the <hi>Lord Ie<g ref="char:EOLhyphen"/>sus,</hi> with the whole con<g ref="char:EOLhyphen"/>gregation, reuerently in praier to proceed to excommunication; that is, vnto the casting him out of their congregati<g ref="char:EOLhyphen"/>on, fellowship, couenāt and protection of the Lord, for his disobedi<g ref="char:EOLhyphen"/>ence and obstinacy, and committing him to Sa<g ref="char:EOLhyphen"/>than for the destruction of the flesh, that the spi<g ref="char:EOLhyphen"/>rit may be saued in the day of the <hi>Lord Iesus,</hi> if such be his good will and pleasure, <hi>Math.</hi> 18.17. 1 <hi>Cor.</hi> 5.11.</p>
+               <pb facs="tcp:8827:18"/>
+            </div>
+            <div n="26" type="insiders_account">
+               <p>
+                  <hi>26</hi> If this preuaile not to make any acknowledge sin for <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> well-doing, then do they threaten him irreue<g ref="char:EOLhyphen"/>rently to proceed to excom<g ref="char:EOLhyphen"/>munication; that is, to the casting him out of their Schismaticall society for his faithfulnesse and con<g ref="char:EOLhyphen"/>stancy in a good cause, enr<g ref="char:EOLhyphen"/>sing them whom <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> God blesseth, prophaning his <hi>
+                     <seg rend="sup">c</seg>
+                  </hi> Name and Ordinances thereunto. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See Prophane schism. cap. <hi>2.</hi> pag. <hi>11.</hi> See <hi>Geo. Iohnsons</hi> discours. <hi>
+                     <seg rend="sup">b</seg> Gen. 12.3. <seg rend="sup">c</seg> Esay 66.5.</hi>
+               </p>
+               <pb facs="tcp:8827:18"/>
+            </div>
+            <div n="27" type="Brownists_account">
+               <p n="27">27 Further, they are to warne the whole cōgre<g ref="char:EOLhyphen"/>gation, &amp; all other faith<g ref="char:EOLhyphen"/>full, to hold him as an Heathen and Publican, and to abstaine them<g ref="char:EOLhyphen"/>selues from his society, as not to eate or drinke with him, &amp;c. vnlesse it be such as of necessity must needs, as his wife, his children &amp; family; yet these (if they be mē<g ref="char:EOLhyphen"/>bers of the Church) are not to ioine to him in a<g ref="char:EOLhyphen"/>ny Spirituall exercise. <hi>Mat.</hi> 18.17. 1 <hi>Cor.</hi> 5.11.</p>
+            </div>
+            <div n="27" type="insiders_account">
+               <p>
+                  <hi>27</hi> Further, they vse to warne the whole congre<g ref="char:EOLhyphen"/>gation, and all other of their schisme, to hold him as an Heathen and Publi<g ref="char:EOLhyphen"/>can, and to abstaine, &amp;c. as not to eate &amp; drinke with him, vnlesse it be such wo<g ref="char:EOLhyphen"/>men, as some of their <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> El<g ref="char:EOLhyphen"/>ders haue formerly found such kindnesse of, as still for their necessity do vse their cōpany; yet these are not to ioyne in any spiritu<g ref="char:EOLhyphen"/>all excercise, but carnall. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> Witnesse <hi>Dan. Studleys</hi> society with mistres <hi>May</hi> and mistr. <hi>Smith.</hi> Ergo, by these scriptures they are not, &amp;c. <hi>Mat. 18. 17.</hi> &amp;c.</p>
+            </div>
+            <div n="28" type="Brownists_account">
+               <p n="28">28 If the offence bee publique, the party is publiquely to be repro<g ref="char:EOLhyphen"/>ued, &amp; admonished; If he then repent not, to proceed to excōmuni<g ref="char:EOLhyphen"/>cation, as aforsaid. 1 <hi>Tim</hi> 5.20. <hi>Gal.</hi> 2.14. <hi>Iosu.</hi> 7.19. 2 <hi>Cor.</hi> 7.9.</p>
+               <pb facs="tcp:8827:18"/>
+            </div>
+            <div n="28" type="insiders_account">
+               <p>
+                  <hi>28</hi> If the offence be pub<g ref="char:EOLhyphen"/>lique, yet such kinde <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> wo<g ref="char:EOLhyphen"/>men must be priuatly dealt withall, and priuate ac<g ref="char:EOLhyphen"/>knowledgement may pre<g ref="char:EOLhyphen"/>uent an excommunicatiō. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> Witnesse their bringing Mistr. <hi>Smith</hi> her offences (known to many Churches and reiected for them) a<g ref="char:EOLhyphen"/>gaine
+<pb facs="tcp:8827:18"/>to priuate admonition. Ergo, by these scrip<g ref="char:EOLhyphen"/>tures they are not, &amp;c. <hi>1 Tim. 5.</hi> &amp;c.</p>
+            </div>
+            <div n="29" type="Brownists_account">
+               <p n="29">29 The repentance of the party must be pro<g ref="char:EOLhyphen"/>portionable to the of<g ref="char:EOLhyphen"/>fence, <hi>viz.</hi> if the offence be publique, publique; if priuate, priuate: hum<g ref="char:EOLhyphen"/>bled, submissiue, sorrow<g ref="char:EOLhyphen"/>full, vnfeigned, giuing glory to the Lord. <hi>Leuit.</hi> 19.17.18. <hi>Pro.</hi> 10.12. <hi>Rom</hi> 12.19 <hi>&amp;</hi> 13.10. <hi>&amp;</hi> 14.1.</p>
+            </div>
+            <div n="29" type="insiders_account">
+               <p>
+                  <hi>29</hi> Their repentance is so preposterous, viz. if the Elders take part with the offēder, then a bare recital of these words; Wel, I am sorry for it, what wil you haue more? <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> must serue, though it be spighfully &amp; proudly spoken against the admonisher, not giuing glory to the Lord. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> If the admonisher bee not there<g ref="char:EOLhyphen"/>with satisfied, they will deale with him for cōtention; and if he repent not (of wel-doing) cast him out also.</p>
+               <p>Ergo, by these scriptures they are not the Church of God. <hi>Leuit. 19.</hi> &amp;c.</p>
+            </div>
+            <div n="30" type="Brownists_account">
+               <p n="30">30 There must great care be had of admoni<g ref="char:EOLhyphen"/>tions, that they be not captious or curious, fin<g ref="char:EOLhyphen"/>ding fault where none is, neither yet in bitter<g ref="char:EOLhyphen"/>nesse or reproach: for that were to destroy, &amp; not to saue our brother. But they must be care<g ref="char:EOLhyphen"/>fully
+<pb facs="tcp:8827:19"/>done, with prayer going before: they must be seasoned with truth, grauity, loue, and peace. <hi>Math.</hi> 18.15. <hi>&amp;</hi> 26.8. <hi>Gal.</hi> 6.1.2. 2. <hi>Tim.</hi> 2.24. <hi>Marke</hi> 9.50. <hi>Ephes.</hi> 4.29. <hi>Iames</hi> 5.15.19.20.</p>
+            </div>
+            <div n="30" type="insiders_account">
+               <p>
+                  <hi>30</hi> In their admonitions they be so captious or cu<g ref="char:EOLhyphen"/>rious, <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> finding fault where none is, in bitter<g ref="char:EOLhyphen"/>nesse or reproach, rather to destroy then saue their brother: so malitiously ta<g ref="char:EOLhyphen"/>ken in hand, neither sea<g ref="char:EOLhyphen"/>soned with truth, grauity, loue, nor peace. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> Witnesse
+<pb facs="tcp:8827:19"/>their vngodly dealing with some for hearing the word of God preached both in the English and Dutch Churches: see Pro<g ref="char:EOLhyphen"/>phan schis. cap. <hi>3.</hi> Sect. <hi>2.</hi>
+               </p>
+               <p>Ergo, By these scriptures they are not the Church &amp; people of God. <hi>Mat. 18.15.</hi> &amp;c.</p>
+            </div>
+            <div n="31" type="Brownists_account">
+               <p n="31">31 Moreouer, in this Church is an especiall care had, by euery mem<g ref="char:EOLhyphen"/>ber thereof, of offences; The strong ought not to offend the weake, nor the weake to iudge the strong; but all graces are here giuen to the seruice and edification of each other, in loue, and long-suffering. <hi>Luk.</hi> 17.1. <hi>Pro.</hi> 10.12. <hi>Rom.</hi> 14.13.19. <hi>Gal.</hi> 6.2.</p>
+               <pb facs="tcp:8827:19"/>
+            </div>
+            <div n="31" type="insiders_account">
+               <p>
+                  <hi>31</hi> Moreouer, in this Church is a <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> partiall care had by the Officers in de<g ref="char:EOLhyphen"/>fence of their fauourites; that the strong offend the weake, and the weake therfore iudge the strong, but <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> feare to reproue thē, knowing their partiality, violence, and iniury to those that reproue their impieties; and to their fa<g ref="char:EOLhyphen"/>uourites, loue, and long<g ref="char:EOLhyphen"/>suffering. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> See first part of hunting the Fox. <hi>
+                     <seg rend="sup">b</seg>
+                  </hi> See <hi>Geo. Iohnsons</hi> discourse (brethrens feare to assist him.) Ergo, by these scriptures they are not, &amp;c. <hi>Luk. 17.1. &amp;c.</hi>
+               </p>
+               <pb facs="tcp:8827:19"/>
+            </div>
+            <div n="32" type="Brownists_account">
+               <p n="32">32 In this Church is the truth purely taught, and surely kept: here is the Couenant, the Sa<g ref="char:EOLhyphen"/>craments, the Promises, the Graces, the Glory, the Prefence, the Wor<g ref="char:EOLhyphen"/>ship of God, &amp;c. <hi>Gen.</hi> 17 <hi>chap. Leuit</hi> 26.11.12. <hi>E<g ref="char:EOLhyphen"/>say</hi> 44.3. <hi>Gal.</hi> 4.28. <hi>&amp;</hi> 6.16. <hi>Esay</hi> 60.15. <hi>Deut.</hi> 4.12.13. <hi>Esay</hi> 56.7. 1 <hi>Tim.</hi> 3.15. <hi>Esay</hi> 52.8.</p>
+            </div>
+            <div n="32" type="insiders_account">
+               <p>
+                  <hi>32</hi> In this Church is the truth neither a purely taught, nor surely kept: here is the Couenant, the Sacraments and Promises of God abused; the Graces, the Glory, the Presence, the Worship of God prophaned. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> For all their doc̄trine tends to the maintenance of their schisme, no appli<g ref="char:EOLhyphen"/>cation of Gods iudgement against their impieties. See Proph. schis. c. <hi>1.</hi> Ergo by these scriptures they are not, &amp;c. <hi>Gen. 17. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="33" type="Brownists_account">
+               <p n="33">33 Into this Temple entreth no vncleane thing, neither whatsoe<g ref="char:EOLhyphen"/>uer worketh abhomina<g ref="char:EOLhyphen"/>tions, or lyes; but they which are written in the Lambes booke of life, <hi>Esay</hi> 52.1. <hi>Ezec.</hi> 44.9. <hi>Esay</hi> 35.8. <hi>Zach.</hi> 14.21. <hi>Reu.</hi> 21.27.</p>
+               <pb facs="tcp:8827:20"/>
+            </div>
+            <div n="33" type="insiders_account">
+               <p>
+                  <hi>33</hi> Into this Temple en<g ref="char:EOLhyphen"/>ters no <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> cleane thing, but many that worke abhomi<g ref="char:EOLhyphen"/>nations, or lyes, such are they which are written in the Church-booke of their schisme. <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> All are polluted with schisme: for all must professe to reiect other Churches, before they en<g ref="char:EOLhyphen"/>ter.</p>
+               <p>Ergo, By these scriptures they are not the Church of God. <hi>Esay. 52. 1.&amp;c.</hi>
+               </p>
+               <pb facs="tcp:8827:20"/>
+            </div>
+            <div n="34" type="Brownists_account">
+               <p n="34">34 But without this Church shal be dogges and inchanters, whore<g ref="char:EOLhyphen"/>mongers, murderers &amp; Idolaters, and whosoe<g ref="char:EOLhyphen"/>uer loueth and maketh lyes. <hi>Romans.</hi> 2.9. <hi>Reuel.</hi> 22.15.</p>
+            </div>
+            <div n="34" type="insiders_account">
+               <p>
+                  <hi>34</hi> But without this Church are innumerable <hi>
+                     <seg rend="sup">a</seg>
+                  </hi> seruāts of <hi>Iesus Christ:</hi> vnto whose holy Commu<g ref="char:EOLhyphen"/>nion againe, the Lord in his good time call those wandring schismatiques, so many as belong vnto him. <hi>Amen. <seg rend="sup">a</seg>
+                  </hi> whose lines and conuersation they slander most abhomi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ably. See the Prophane Schis. Generation of slanderers, cap. <hi>12.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
